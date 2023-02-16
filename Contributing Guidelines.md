@@ -1,1 +1,2 @@
 ### Contributing Guidelines
+$ git mv OLD-CONTRIBUTING NEW-CONTRIBUTING GUIDELINE
